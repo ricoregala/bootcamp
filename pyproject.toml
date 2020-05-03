@@ -1,12 +1,15 @@
 [tool.poetry]
 name = "bootcamp"
 version = "0.1.0"
-description = "A series of introductory projects focusing on to give the basic hands in experience to tools used in software engineering and data science."
+description = "A series of introductory projects focusing to hands on experience to tools used in software engineering and data science."
 authors = ["Rico Regala"]
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.6.1, <4"
+requests = "^2.23.0"
+djangorestframework = "^3.11.0"
+python-env = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
