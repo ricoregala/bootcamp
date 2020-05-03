@@ -1,0 +1,510 @@
+{
+	"bustime-response": {
+		"stops": [
+			{
+				"stpid": "1926",
+				"stpnm": "Clark & Addison",
+				"lat": 41.947108000001,
+				"lon": -87.656363000001
+			},
+			{
+				"stpid": "1939",
+				"stpnm": "Clark & Ainslie",
+				"lat": 41.971722,
+				"lon": -87.667807
+			},
+			{
+				"stpid": "1958",
+				"stpnm": "Clark & Albion",
+				"lat": 42.001594999999,
+				"lon": -87.671717000002
+			},
+			{
+				"stpid": "1950",
+				"stpnm": "Clark & Ardmore",
+				"lat": 41.988172000001,
+				"lon": -87.669620000001
+			},
+			{
+				"stpid": "17266",
+				"stpnm": "Clark & Arlington",
+				"lat": 41.927032999999,
+				"lon": -87.641295
+			},
+			{
+				"stpid": "1907",
+				"stpnm": "Clark & Armitage",
+				"lat": 41.918355,
+				"lon": -87.636176999999
+			},
+			{
+				"stpid": "1957",
+				"stpnm": "Clark & Arthur",
+				"lat": 42.000154999999,
+				"lon": -87.671224999999
+			},
+			{
+				"stpid": "14791",
+				"stpnm": "Clark & Balmoral",
+				"lat": 41.980050000001,
+				"lon": -87.668283000001
+			},
+			{
+				"stpid": "14437",
+				"stpnm": "Clark & Barry/Halsted",
+				"lat": 41.93874,
+				"lon": -87.649608
+			},
+			{
+				"stpid": "1910",
+				"stpnm": "Clark & Belden",
+				"lat": 41.923648,
+				"lon": -87.639451999999
+			},
+			{
+				"stpid": "1931",
+				"stpnm": "Clark & Belle Plaine",
+				"lat": 41.956565,
+				"lon": -87.663515
+			},
+			{
+				"stpid": "1921",
+				"stpnm": "Clark & Belmont",
+				"lat": 41.939757,
+				"lon": -87.650497999998
+			},
+			{
+				"stpid": "1943",
+				"stpnm": "Clark & Berwyn",
+				"lat": 41.977848,
+				"lon": -87.668332
+			},
+			{
+				"stpid": "14792",
+				"stpnm": "Clark & Bryn Mawr",
+				"lat": 41.983658000001,
+				"lon": -87.668697000001
+			},
+			{
+				"stpid": "1902",
+				"stpnm": "Clark & Burton",
+				"lat": 41.909373999999,
+				"lon": -87.631455
+			},
+			{
+				"stpid": "1929",
+				"stpnm": "Clark & Byron",
+				"lat": 41.952758000001,
+				"lon": -87.660893000001
+			},
+			{
+				"stpid": "1945",
+				"stpnm": "Clark & Catalpa",
+				"lat": 41.981497,
+				"lon": -87.668426999999
+			},
+			{
+				"stpid": "1967",
+				"stpnm": "Clark & Chase",
+				"lat": 42.013586999999,
+				"lon": -87.674768
+			},
+			{
+				"stpid": "1933",
+				"stpnm": "Clark & Cullom",
+				"lat": 41.959777000001,
+				"lon": -87.665152999998
+			},
+			{
+				"stpid": "1913",
+				"stpnm": "Clark & Deming",
+				"lat": 41.928542999999,
+				"lon": -87.642408
+			},
+			{
+				"stpid": "1956",
+				"stpnm": "Clark & Devon",
+				"lat": 41.997915,
+				"lon": -87.670398000001
+			},
+			{
+				"stpid": "1908",
+				"stpnm": "Clark & Dickens",
+				"lat": 41.920047999999,
+				"lon": -87.637304999999
+			},
+			{
+				"stpid": "1917",
+				"stpnm": "Clark & Diversey",
+				"lat": 41.933128000001,
+				"lon": -87.645172999999
+			},
+			{
+				"stpid": "1899",
+				"stpnm": "Clark & Division (Red Line)",
+				"lat": 41.903763000001,
+				"lon": -87.631255999998
+			},
+			{
+				"stpid": "1915",
+				"stpnm": "Clark & Drummond",
+				"lat": 41.930824999999,
+				"lon": -87.643918
+			},
+			{
+				"stpid": "1952",
+				"stpnm": "Clark & Elmdale/Peterson",
+				"lat": 41.990683,
+				"lon": -87.669905
+			},
+			{
+				"stpid": "1942",
+				"stpnm": "Clark & Foster",
+				"lat": 41.975997,
+				"lon": -87.66838
+			},
+			{
+				"stpid": "1911",
+				"stpnm": "Clark & Fullerton",
+				"lat": 41.925437000001,
+				"lon": -87.640516999999
+			},
+			{
+				"stpid": "1953",
+				"stpnm": "Clark & Glenlake",
+				"lat": 41.992517999999,
+				"lon": -87.669905000001
+			},
+			{
+				"stpid": "1900",
+				"stpnm": "Clark & Goethe",
+				"lat": 41.905669999999,
+				"lon": -87.631462000001
+			},
+			{
+				"stpid": "14438",
+				"stpnm": "Clark & Grace",
+				"lat": 41.950907000001,
+				"lon": -87.659414999998
+			},
+			{
+				"stpid": "17218",
+				"stpnm": "Clark & Granville",
+				"lat": 41.994728,
+				"lon": -87.670000000001
+			},
+			{
+				"stpid": "17219",
+				"stpnm": "Clark & Greenleaf",
+				"lat": 42.010320000001,
+				"lon": -87.674181999998
+			},
+			{
+				"stpid": "15895",
+				"stpnm": "Clark & Harrison",
+				"lat": 41.874065000001,
+				"lon": -87.631027000001
+			},
+			{
+				"stpid": "1948",
+				"stpnm": "Clark & Hollywood",
+				"lat": 41.985254999999,
+				"lon": -87.669175000001
+			},
+			{
+				"stpid": "6281",
+				"stpnm": "Clark & Irving Park",
+				"lat": 41.954672999999,
+				"lon": -87.662340000001
+			},
+			{
+				"stpid": "1968",
+				"stpnm": "Clark & Jarvis",
+				"lat": 42.015820000001,
+				"lon": -87.675117999998
+			},
+			{
+				"stpid": "1451",
+				"stpnm": "Clark & Lasalle",
+				"lat": 41.913547,
+				"lon": -87.633029999999
+			},
+			{
+				"stpid": "17395",
+				"stpnm": "Clark & Lawrence",
+				"lat": 41.969129999999,
+				"lon": -87.667489999999
+			},
+			{
+				"stpid": "1937",
+				"stpnm": "Clark & Leland",
+				"lat": 41.966985,
+				"lon": -87.66706
+			},
+			{
+				"stpid": "1905",
+				"stpnm": "Clark & Lincoln",
+				"lat": 41.915564999999,
+				"lon": -87.634193000002
+			},
+			{
+				"stpid": "1963",
+				"stpnm": "Clark & Lunt",
+				"lat": 42.008867,
+				"lon": -87.673877999999
+			},
+			{
+				"stpid": "1898",
+				"stpnm": "Clark & Maple",
+				"lat": 41.901775,
+				"lon": -87.631279000002
+			},
+			{
+				"stpid": "15518",
+				"stpnm": "Clark & Montrose",
+				"lat": 41.961946999999,
+				"lon": -87.665995
+			},
+			{
+				"stpid": "14785",
+				"stpnm": "Clark & Morse",
+				"lat": 42.007905000001,
+				"lon": -87.673576999999
+			},
+			{
+				"stpid": "14434",
+				"stpnm": "Clark & Newport/Sheffield",
+				"lat": 41.944915,
+				"lon": -87.654502999998
+			},
+			{
+				"stpid": "15417",
+				"stpnm": "Clark & North Avenue",
+				"lat": 41.911512000001,
+				"lon": -87.631646999999
+			},
+			{
+				"stpid": "1959",
+				"stpnm": "Clark & North Shore",
+				"lat": 42.003438,
+				"lon": -87.672368000002
+			},
+			{
+				"stpid": "1897",
+				"stpnm": "Clark & Oak",
+				"lat": 41.900455000001,
+				"lon": -87.631294000002
+			},
+			{
+				"stpid": "14436",
+				"stpnm": "Clark & Pratt",
+				"lat": 42.005519999999,
+				"lon": -87.673020000002
+			},
+			{
+				"stpid": "1951",
+				"stpnm": "Clark & Ridge",
+				"lat": 41.989259999999,
+				"lon": -87.669746999999
+			},
+			{
+				"stpid": "18083",
+				"stpnm": "Clark & Roscoe",
+				"lat": 41.943711000001,
+				"lon": -87.653655
+			},
+			{
+				"stpid": "1955",
+				"stpnm": "Clark & Rosemont",
+				"lat": 41.996293,
+				"lon": -87.670080000001
+			},
+			{
+				"stpid": "1901",
+				"stpnm": "Clark & Schiller",
+				"lat": 41.907742000001,
+				"lon": -87.631432000002
+			},
+			{
+				"stpid": "1922",
+				"stpnm": "Clark & School/Aldine",
+				"lat": 41.941616999999,
+				"lon": -87.652008
+			},
+			{
+				"stpid": "15541",
+				"stpnm": "Clark & Southport",
+				"lat": 41.957431999999,
+				"lon": -87.664057000001
+			},
+			{
+				"stpid": "1935",
+				"stpnm": "Clark & Sunnyside",
+				"lat": 41.963353000001,
+				"lon": -87.666297000001
+			},
+			{
+				"stpid": "1918",
+				"stpnm": "Clark & Surf",
+				"lat": 41.934583000001,
+				"lon": -87.646397000001
+			},
+			{
+				"stpid": "14463",
+				"stpnm": "Clark & Touhy",
+				"lat": 42.013102000001,
+				"lon": -87.67461
+			},
+			{
+				"stpid": "18033",
+				"stpnm": "Clark & Waveland",
+				"lat": 41.94923,
+				"lon": -87.658048
+			},
+			{
+				"stpid": "1909",
+				"stpnm": "Clark & Webster",
+				"lat": 41.921875,
+				"lon": -87.638402000001
+			},
+			{
+				"stpid": "14919",
+				"stpnm": "Clark & Wellington",
+				"lat": 41.936690000001,
+				"lon": -87.647843
+			},
+			{
+				"stpid": "1936",
+				"stpnm": "Clark & Wilson",
+				"lat": 41.965187999999,
+				"lon": -87.666662999999
+			},
+			{
+				"stpid": "14789",
+				"stpnm": "Clark & Winnemac",
+				"lat": 41.973683000001,
+				"lon": -87.668109999999
+			},
+			{
+				"stpid": "1906",
+				"stpnm": "Clark & Wisconsin",
+				"lat": 41.916687,
+				"lon": -87.634904999998
+			},
+			{
+				"stpid": "1880",
+				"stpnm": "Dearborn & Adams",
+				"lat": 41.879886,
+				"lon": -87.629297000001
+			},
+			{
+				"stpid": "18447",
+				"stpnm": "Dearborn & Chicago",
+				"lat": 41.8968,
+				"lon": -87.629704999999
+			},
+			{
+				"stpid": "1877",
+				"stpnm": "Dearborn & Congress",
+				"lat": 41.876090000001,
+				"lon": -87.629182000001
+			},
+			{
+				"stpid": "1895",
+				"stpnm": "Dearborn & Delaware",
+				"lat": 41.898982,
+				"lon": -87.629811
+			},
+			{
+				"stpid": "14767",
+				"stpnm": "Dearborn & Grand",
+				"lat": 41.891971000001,
+				"lon": -87.629599000002
+			},
+			{
+				"stpid": "1876",
+				"stpnm": "Dearborn & Harrison",
+				"lat": 41.874857999999,
+				"lon": -87.629155999998
+			},
+			{
+				"stpid": "15399",
+				"stpnm": "Dearborn & Hubbard",
+				"lat": 41.889911999999,
+				"lon": -87.629528
+			},
+			{
+				"stpid": "1892",
+				"stpnm": "Dearborn & Huron",
+				"lat": 41.894719999999,
+				"lon": -87.629655000001
+			},
+			{
+				"stpid": "14508",
+				"stpnm": "Dearborn & Jackson",
+				"lat": 41.878017999999,
+				"lon": -87.629222999998
+			},
+			{
+				"stpid": "1882",
+				"stpnm": "Dearborn & Madison",
+				"lat": 41.882400999999,
+				"lon": -87.629336999999
+			},
+			{
+				"stpid": "1887",
+				"stpnm": "Dearborn & Marina City",
+				"lat": 41.888308999999,
+				"lon": -87.62947
+			},
+			{
+				"stpid": "1881",
+				"stpnm": "Dearborn & Monroe",
+				"lat": 41.881117999999,
+				"lon": -87.629312
+			},
+			{
+				"stpid": "1891",
+				"stpnm": "Dearborn & Ontario",
+				"lat": 41.893108,
+				"lon": -87.629610999999
+			},
+			{
+				"stpid": "1875",
+				"stpnm": "Dearborn & Polk",
+				"lat": 41.872704999999,
+				"lon": -87.629079999998
+			},
+			{
+				"stpid": "1884",
+				"stpnm": "Dearborn & Randolph",
+				"lat": 41.884798000001,
+				"lon": -87.629408
+			},
+			{
+				"stpid": "1885",
+				"stpnm": "Dearborn Between Lake & Wacker (MB)",
+				"lat": 41.886351999999,
+				"lon": -87.629452999999
+			},
+			{
+				"stpid": "15452",
+				"stpnm": "Rogers & Hermitage",
+				"lat": 42.016638,
+				"lon": -87.673815000001
+			},
+			{
+				"stpid": "18412",
+				"stpnm": "Walton & Dearborn",
+				"lat": 41.899893,
+				"lon": -87.630967
+			},
+			{
+				"stpid": "14227",
+				"stpnm": "Washington & State",
+				"lat": 41.883150999999,
+				"lon": -87.628733999999
+			}
+		]
+	}
+}
